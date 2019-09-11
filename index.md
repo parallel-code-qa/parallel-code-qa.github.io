@@ -2,7 +2,7 @@
 
 ### Events
 
-- [SC19 BoF: Quality Assurance and Coding Standards for Parallel Software](/SC19-BoF) (21st November 2019)
+- [SC19 BoF: Quality Assurance and Coding Standards for Parallel Software](/sc19-bof) (21st November 2019)
 
 ### Mailing list
 

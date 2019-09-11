@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Quality Assurance and Coding Standards for Parallel Software
 
-You can use the [editor on GitHub](https://github.com/parallel-code-qa/parallel-code-qa.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Events
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- [SC19 BoF: Quality Assurance and Coding Standards for Parallel Software](/SC19-BoF) (21st November 2019)
 
-### Markdown
+### Mailing list
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Contributing
 
-```markdown
-Syntax highlighted code block
+### Information
 
-# Header 1
-## Header 2
-### Header 3
+#### Who we are?
 
-- Bulleted
-- List
+The community of Quality Assurance and Coding Standards for Parallel Software community aims to be an international group of researchers and other stakeholders from national laboratories, academic institutions, and industry who are interested in (and concerned about) quality assurance and best practices for the development of parallel software on a wide range of hardware architectures. 
 
-1. Numbered
-2. List
+#### Why is it important?
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/parallel-code-qa/parallel-code-qa.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The automation of testing is critical in software development to improve quality assurance (QA), but today 80% of testing is manual and $32 billion is spent annually on QA. Coding standards in automotive and cybersecurity provide developers with rules and recommendations to prevent faulty code patterns. The ever-increasing complexity of HPC software and hardware pushes the developers to critically reevaluate testing methods, but there is no coding standard for parallel programming yet. The goal is to form a community interested in quality assurance and best practices for parallel programming.

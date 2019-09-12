@@ -4,9 +4,8 @@
 
 - [SC19 BoF: Quality Assurance and Coding Standards for Parallel Software](/sc19-bof) (21st November 2019)
 
-### Mailing list
-
-### Contributing
+### Mailing list and discussion
+[https://groups.io/g/parallel-code-qa](https://groups.io/g/parallel-code-qa)
 
 ### Information
 
